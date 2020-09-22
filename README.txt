@@ -23,13 +23,7 @@ Finally, the images had to be resized to make them fit horizontally on the page
 and to reduce the amount of scrolling required to view the whole list.
 (Michael Kokkatt and Shane Riggs)
 
-In the XML for part 4, we converted the HTML to more specific tag names and organized it a bit better. As we know, XML is used in the industry to organize data better and I can
-definitely see why that is. We also added some CSS for the XML to make the data look
-nicer. 
-
-(Teddy Clark, Michael Kokkatt, Shane Riggs)
-
-1. Create a README file, and in it explain the reasoning for the markup you chose and explain how your HTML is semantically correct.
-2. explain the reasoning for the markup you chose and be prepared to explain how your XML is semantically correct.
-3. Using comments in your file(s), and in your Readme file, explain the logic for the markup you have chosen and make sure your markup is well documented.
-4. As above add any comments to your Readme file.
+In the XML for part 4, we converted the HTML to more specific tag names and organized
+it a bit better. As we know, XML is used in the industry to organize data better and
+I can definitely see why that is. We also added some CSS for the XML to make the data
+look nicer. (Teddy Clark, Michael Kokkatt, Shane Riggs)
