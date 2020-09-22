@@ -1,0 +1,96 @@
+track {
+	float: left;
+}
+​
+cite:before {
+	content: "\A";
+	white-space: pre;
+}
+
+
+orderedlist {
+  vertical-align: top;
+  display: inline-block;
+  width: 150px;
+  height: 700px;
+  padding: 5px;
+  border: 1px solid blue;    
+}
+​
+track orderedlist listitem {
+	font-variant: small-caps;
+	list-style-type: none;
+	margin-bottom: 300px;
+}
+​
+artist {
+	float: left;
+}
+​
+artist orderedlist listitem {
+	font-weight: bold;
+	font-size: 1.2em;
+	list-style-type: none;
+	margin-bottom: 300px;
+	height: 150px;
+
+}
+​
+albumname {
+	float: left;
+}
+​
+albumname orderedlist listitem {
+	font-style: italic;
+	list-style-type: none;
+	margin-bottom: 300px;
+}
+​
+rating {
+	float: left;
+}
+​
+rating orderedlist listitem {
+	list-style-type: none;
+	margin-bottom: 300px;
+}
+​
+date {
+	float: left;	
+}
+​
+date orderedlist listitem {
+	font-size: .8em;
+	list-style-type: none;
+	margin-bottom: 300px;
+}
+​
+genre {
+	 float: left;
+}
+​
+genre orderedlist orderedlist {
+	display: inline;
+}
+​
+genre orderedlist orderedlist listitem {
+	font-size: .8em;
+	list-style-type: none;
+}
+​
+genre orderedlist > listitem:before {
+	content: "-";
+}
+​
+albumcover {
+	float: left;
+}
+​
+albumcover orderedlist listitem {
+	list-style-type: none;
+	width: 20px;
+}
+inlinegraphic {
+	height: 50%;
+	width: 50%;
+}

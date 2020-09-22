@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="konami-lab2-lab4.css"?>
+
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+
+
+  <para>Track Name</para>
+  <track>
+  <orderedlist>
+    <listitem>
+      <para>Truth Without Love </para>
+    </listitem>
+    <listitem>
+      <para>Out the Cage </para>
+    </listitem>
+    <listitem>
+      <para>Alabama </para>
+    </listitem>
+    <listitem>
+      <para>Where Do the Children Play? </para>
+    </listitem>
+    <listitem>
+      <para>Scramble Suit II </para>
+    </listitem>
+    <listitem>
+      <para>First Light </para>
+    </listitem>
+    <listitem>
+      <para>Bottle Opener </para>
+    </listitem>
+    <listitem>
+      <para>Red Den </para>
+    </listitem>
+    <listitem>
+      <para>Oh Yeah </para>
+    </listitem>
+    <listitem>
+      <para>Through the Late Night </para>
+    </listitem>
+  </orderedlist>
+  </track>
+
+
+  <para>Artist</para>
+  <artist>
+  <orderedlist>
+    <listitem>
+      <para><ulink url="https://www.allmusic.com/artist/alicia-keys-mn0000005307">Alicia Keys</ulink> </para>
+    </listitem>
+    <listitem>
+      <para><ulink url="https://www.allmusic.com/artist/keith-urban-mn0000081619">Keith Urban</ulink> </para>
+    </listitem>
+    <listitem>
+      <para><ulink url="https://www.allmusic.com/artist/neil-young-mn0000379125">Neil Young</ulink> </para>
+    </listitem>
+    <listitem>
+      <para><ulink url="https://www.allmusic.com/artist/cat-stevens-mn0000198480">Cat Stephens</ulink> <ulink url="https://www.allmusic.com/artist/yusuf-mn0000879920">Yusuf</ulink> </para>
+    </listitem>
+    <listitem>
+      <para><ulink url="https://www.allmusic.com/artist/osees-mn0003961905">Osees</ulink> <ulink url="https://www.allmusic.com/artist/thee-oh-sees-mn0000990384">Thee Oh Sees</ulink> </para>
+    </listitem>
+    <listitem>
+      <para><ulink url="https://www.allmusic.com/artist/ed-harcourt-mn0000162427">Ed Harcourt</ulink> </para>
+    </listitem>
+    <listitem>
+      <para><ulink url="https://www.allmusic.com/artist/gus-dapperton-mn0003715935">Gus Dapperton</ulink> </para>
+    </listitem>
+    <listitem>
+      <para><ulink url="https://www.allmusic.com/artist/deradoorian-mn0003420085">Deradoorian</ulink> </para>
+    </listitem>
+    <listitem>
+      <para><ulink url="https://www.allmusic.com/artist/ag-cook-mn0003335396">A.G. Cook</ulink> </para>
+    </listitem>
+    <listitem>
+      <para><ulink url="https://www.allmusic.com/artist/travis-scott-mn0002998422">Travis Scott</ulink> </para>
+    </listitem>
+  </orderedlist>
+  </artist>
+
+
+
+  <para>Album Name</para>
+  <albumname>
+  <orderedlist>
+    <listitem>
+      <para><ulink url="https://www.allmusic.com/album/alicia-mw0003351809">Alicia</ulink> </para>
+    </listitem>
+    <listitem>
+      <para><ulink url="https://www.allmusic.com/album/the-speed-of-now-vol-1-mw0003400496">The Speed of Now, Vol. 1</ulink> </para>
+    </listitem>
+    <listitem>
+      <para><ulink url="https://rovimusic.rovicorp.com/image.jpg?c=gUYMFrXiA41IwtaXv8uXWgSijaXJlYnq0St31qpAJWo=&amp;f=5">The Times</ulink> </para>
+    </listitem>
+    <listitem>
+      <para><ulink url="https://www.allmusic.com/album/tea-for-the-tillerman-2-mw0003381606">Tea for the Tillerman 2</ulink> </para>
+    </listitem>
+    <listitem>
+      <para><ulink url="https://www.allmusic.com/album/protean-threat-mw0003411500">Protean Threat</ulink> </para>
+    </listitem>
+    <listitem>
+      <para><ulink url="https://www.allmusic.com/album/monochrome-to-colour-mw0003406153">Monochrome to Colour</ulink> </para>
+    </listitem>
+    <listitem>
+      <para><ulink url="https://www.allmusic.com/album/orca-mw0003403400">Orca</ulink> </para>
+    </listitem>
+    <listitem>
+      <para><ulink url="https://www.allmusic.com/album/find-the-sun-mw0003366844">Find the Sun</ulink> </para>
+    </listitem>
+    <listitem>
+      <para><ulink url="https://www.allmusic.com/album/apple-mw0003419305">Apple</ulink> </para>
+    </listitem>
+    <listitem>
+      <para><ulink url="https://www.allmusic.com/album/birds-in-the-trap-sing-mcknight-mw0002978141">Birds in the Trap Sing McKnight</ulink> </para>
+    </listitem>
+  </orderedlist>
+  </albumname>
+
+
+  <para>AllMusic Rating</para>
+  <rating>
+  <orderedlist>
+    <listitem>
+      <para>3.0 Stars </para>
+    </listitem>
+    <listitem>
+      <para>3.5 Stars </para>
+    </listitem>
+    <listitem>
+      <para>3.0 Stars </para>
+    </listitem>
+    <listitem>
+      <para>2.5 Stars </para>
+    </listitem>
+    <listitem>
+      <para>4.0 Stars </para>
+    </listitem>
+    <listitem>
+      <para>4.0 Stars </para>
+    </listitem>
+    <listitem>
+      <para>2.5 Stars </para>
+    </listitem>
+    <listitem>
+      <para>3.5 Stars </para>
+    </listitem>
+    <listitem>
+      <para>4.0 Stars </para>
+    </listitem>
+    <listitem>
+      <para>3.0 Stars </para>
+    </listitem>
+  </orderedlist>
+  </rating>
+
+  <para>Release Date</para>
+  <date>
+  <orderedlist>
+    <listitem>
+      <para>September 11, 2006 </para>
+    </listitem>
+    <listitem>
+      <para>September 18, 2020 </para>
+    </listitem>
+    <listitem>
+      <para>August 28, 2020 </para>
+    </listitem>
+    <listitem>
+      <para>May 28, 2020 </para>
+    </listitem>
+    <listitem>
+      <para>September 15, 2020 </para>
+    </listitem>
+    <listitem>
+      <para>September 18, 2020 </para>
+    </listitem>
+    <listitem>
+      <para>September 18, 2020 </para>
+    </listitem>
+    <listitem>
+      <para>September 18, 2020 </para>
+    </listitem>
+    <listitem>
+      <para>September 18, 2020 </para>
+    </listitem>
+        <listitem>
+
+      <para>September 2, 2016 </para>
+    </listitem>
+  </orderedlist>
+  </date>
+
+  <para>Genre</para>
+  <genre>
+        <orderedlist>
+          <orderedlist>
+            <listitem>R&amp;B</listitem>
+          </orderedlist>
+          <orderedlist>
+                <listitem>Country</listitem>
+          </orderedlist>
+          <orderedlist>
+
+                <listitem>Pop</listitem>
+                <listitem>Rock</listitem>
+          </orderedlist>
+          <orderedlist>
+                <listitem>Pop</listitem>
+                <listitem>Rock</listitem>
+          </orderedlist>
+          <orderedlist>
+                <listitem>Pop</listitem>
+                <listitem>Rock</listitem>
+          </orderedlist>
+          <orderedlist>
+                <listitem>Pop</listitem>
+                <listitem>Rock</listitem>
+          </orderedlist>
+          <orderedlist>
+                <listitem>Pop</listitem>
+                <listitem>Rock</listitem>
+          </orderedlist>
+          <orderedlist>
+                <listitem>Pop</listitem>
+                <listitem>Rock</listitem>
+          </orderedlist>
+          <orderedlist>
+                <listitem>Electronic</listitem>
+                <listitem>Pop</listitem>
+                <listitem>Rock</listitem>
+          </orderedlist>
+          <orderedlist>
+                <listitem>Rap</listitem>
+          </orderedlist>
+       </orderedlist>
+      </genre>
+
+  <para>Album Cover</para>
+  <albumcover>
+  <orderedlist>
+    <listitem>
+      <para><inlinegraphic fileref="https://rovimusic.rovicorp.com/image.jpg?c=epuqKkLi6xOdbhM9Yh9QRphUoDg0hsvx4F4sL4oO-nA=&amp;f=5" width="5.2083inch" depth="5.2083inch"/> </para>
+    </listitem>
+    <listitem>
+      <para><inlinegraphic fileref="https://rovimusic.rovicorp.com/image.jpg?c=o14Vu0nHVoZHTvcw0BsV29_M69_UI9rrJSVvWL2-yAg=&amp;f=5" width="5.2083inch" depth="5.2083inch"/> </para>
+    </listitem>
+    <listitem>
+      <para><inlinegraphic fileref="https://rovimusic.rovicorp.com/image.jpg?c=gUYMFrXiA41IwtaXv8uXWgSijaXJlYnq0St31qpAJWo=&amp;f=5" width="5.2083inch" depth="5.2083inch"/> </para>
+    </listitem>
+    <listitem>
+      <para><inlinegraphic fileref="https://rovimusic.rovicorp.com/image.jpg?c=UB8S-9BP8Dw7YxRVrmVfbQ4Q1ghY8VaPylnm7PwcKNY=&amp;f=5" width="5.2083inch" depth="5.2083inch"/> </para>
+    </listitem>
+    <listitem>
+      <para><inlinegraphic fileref="https://rovimusic.rovicorp.com/image.jpg?c=A5aSOJY05HjSzBalR48veT6KsMttLlyBmmVTZ6_CLs0=&amp;f=5" width="5.2083inch" depth="5.2083inch"/> </para>
+    </listitem>
+    <listitem>
+      <para><inlinegraphic fileref="https://rovimusic.rovicorp.com/image.jpg?c=M0gfCNdGo55V_9IYA6AXth_TZlp6n_cq-Emr2zx15tU=&amp;f=5" width="5.2083inch" depth="5.2083inch"/> </para>
+    </listitem>
+    <listitem>
+      <para><inlinegraphic fileref="https://rovimusic.rovicorp.com/image.jpg?c=iKrfuN_q5cS0bq__Sx8LRD6KsMttLlyBmmVTZ6_CLs0=&amp;f=5" width="5.2083inch" depth="5.2083inch"/> </para>
+    </listitem>
+    <listitem>
+      <para><inlinegraphic fileref="https://rovimusic.rovicorp.com/image.jpg?c=9_-JGKkapM-2IAPapEQD3A4Q1ghY8VaPylnm7PwcKNY=&amp;f=5" width="5.2083inch" depth="5.2083inch"/> </para>
+    </listitem>
+    <listitem>
+      <para><inlinegraphic fileref="https://rovimusic.rovicorp.com/image.jpg?c=suHi7ziefX_Lf3r888pl4ypQg_7iAU1wjqLgK_xGXts=&amp;f=5" width="5.2083inch" depth="5.2083inch"/> </para>
+    </listitem>
+    <listitem>
+      <para><inlinegraphic fileref="https://cdn-s3.allmusic.com/release-covers/500/0004/631/0004631095.jpg" width="0.7862inch" depth="0.3929inch"/> </para>
+    </listitem>
+  </orderedlist>
+</albumcover>
+
+  <para>Written by <ulink url="mailto:edwardeclarkiii@gmail.com">Teddy Clark, Michael Kokkatt, Shane Riggs</ulink>.Visit us at:<ulink url="https://github.com/teddy-clark/konami_webdev/blob/master/lab2">GitHub</ulink> 110 8th StTroy, NY 12180 USA </para>
+</article>
