@@ -6,6 +6,11 @@ div {
   border: 1px solid blue;
 }
 
+p {
+  padding: 0px;
+  margin: 0px;
+}
+
 .track_name {
 	float: left;
 }
@@ -39,7 +44,7 @@ div {
 
 .rating {
 	float: left;
-	width: 100px;
+	width: 150px;
 }
 
 .rating ul li {
@@ -48,7 +53,7 @@ div {
 }
 
 .release_date {
-	float: left;	
+	float: left;
 }
 
 .release_date ul li {
@@ -58,17 +63,19 @@ div {
 }
 
 .genre {
-	width: 100px;
+	/* width: 100px; */
 	float: left;
+  width: 150px;
 }
 
 .genre ul ul {
 	display: inline;
 }
 
-.genre ul ul li {
+.genre ul li {
 	font-size: .8em;
 	list-style-type: none;
+  height: 150px;
 }
 
 /*Add dashes as bullets for each genre li*/
@@ -79,6 +86,7 @@ div {
 .album_cover {
 	float: left;
 	width: 220px;
+  padding-bottom: 15px;
 }
 
 .album_cover ul li {
@@ -88,8 +96,10 @@ div {
 /*Resize images to make them fit*/
 img {
 	height: 145px;
-	width: 145px;
-	border-bottom:5px;
+	width: 150px;
 }
 
-
+footer {
+  text-align: center;
+  padding: 15px;
+}
